@@ -1,0 +1,1 @@
+ C:\\flutterdev\\projects\\checkpoint\\.dart_tool\\flutter_build\\35cfc54b4a870c108700192fabbda8b3\\native_assets.yaml: 
